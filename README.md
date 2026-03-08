@@ -23,7 +23,7 @@ Laravel 12 · Filament 4 · Livewire 3 · Sanctum · MySQL
 <br>
 <br>
 
-# FAÇA UM TESTE
+# TESTE ESTES MÓDULOS E DESCOBRA MAIS
 
 # Gestão Financeira
 
